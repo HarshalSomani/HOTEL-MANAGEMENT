@@ -1,0 +1,44 @@
+{
+  "oyo": [
+    {
+      "id": 1,
+      "c_no": 1,
+      "c_name": "harshal",
+      "c_M_no": 1234567890,
+      "email": "fgh@23",
+      "c_addrees": "delhi"
+    },
+    {
+      "id": 2,
+      "c_no": 2,
+      "c_name": "harshal",
+      "c_M_no": 1234567890,
+      "email": "fgh@23",
+      "c_addrees": "delhi"
+    },
+    {
+      "id": 3,
+      "c_no": 4,
+      "c_name": "harshal",
+      "c_M_no": 1234567890,
+      "email": "fgh@245",
+      "c_addrees": "delhi"
+    },
+    {
+      "c_no": "6",
+      "c_name": "njk",
+      "c_Mo_no": "6546",
+      "email": "shgg@dnjn",
+      "c_addrees": "skjdk",
+      "id": 5
+    },
+    {
+      "c_no": "10",
+      "c_name": "hd",
+      "c_Mo_no": "121654",
+      "email": "dsjh@shgg.com",
+      "c_addrees": "sld",
+      "id": 6
+    }
+  ]
+}
